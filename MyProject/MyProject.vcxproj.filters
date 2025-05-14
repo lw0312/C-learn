@@ -66,5 +66,17 @@
     <ClCompile Include="17_switch语句.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="18_for循环.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19_for循环练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20_while循环.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21_2的幂次方循环练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
