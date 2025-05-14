@@ -45,5 +45,26 @@
     <ClCompile Include="10_运算符.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11_练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12_隐式转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13_强制转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14_练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15_逗号运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16_if语句.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17_switch语句.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
