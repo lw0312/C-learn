@@ -78,5 +78,62 @@
     <ClCompile Include="21_2的幂次方循环练习.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="22_打印纸的次数循环练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23_整数反转.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_算术平方根.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25_回文数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26_除数与被除数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27_无限循环.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28_continue.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29_练习.打印矩形.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30_练习.打印三角形.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31_练习.打印九九乘法表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32_练习.统计质数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33_练习.幂级数列.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34_练习.特殊数字.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35_跳出多层循环goto.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36_函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37_math函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38_time函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39_随机数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40_练习.猜数字.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -12,6 +12,10 @@
 //	char c = 'A';
 //	printf("c是%c\n", c);
 //
+//	// 2.字符串
+//	char str[14] = "HelloWorld";
+//	printf("%s\n", str);
+//
 //	// 2.利用sizeof测量char数据类型占用的字节
 //	printf("该数据类型占用%zu个字节", sizeof(b));
 //}
