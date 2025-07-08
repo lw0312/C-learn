@@ -53,6 +53,13 @@
     <ClCompile Include="39_随机数.c" />
     <ClCompile Include="3_变量.c" />
     <ClCompile Include="40_练习.猜数字.c" />
+    <ClCompile Include="41_数组.c" />
+    <ClCompile Include="42_内存地址.c" />
+    <ClCompile Include="43_数组长度.c" />
+    <ClCompile Include="44_求最值.c" />
+    <ClCompile Include="45_数组求和.c" />
+    <ClCompile Include="46_数组求和(升级版).c" />
+    <ClCompile Include="47_反转数组.c" />
     <ClCompile Include="4_进制.c" />
     <ClCompile Include="5_数据类型.c" />
     <ClCompile Include="6_小数类型.c" />

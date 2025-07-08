@@ -135,5 +135,26 @@
     <ClCompile Include="40_练习.猜数字.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="41_数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42_内存地址.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43_数组长度.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44_求最值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45_数组求和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46_数组求和(升级版).c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47_反转数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
