@@ -1,4 +1,4 @@
-#include<stdio.h>
+ï»¿#include<stdio.h>
 
 int Order(int arr[], int len, int num);
 
@@ -7,17 +7,17 @@ int main() {
 	int len = sizeof(arr) / sizeof(int);
 
 
-	printf("ÇëÊäÈëÒª²éÕÒµÄÊı×Ö£º");
+	printf("è¯·è¾“å…¥è¦æŸ¥æ‰¾çš„æ•°å­—ï¼š");
 	int num = 0;
 	scanf("%d", &num);
 
 	int flag = Order(arr,len,num);
 
 	if (flag != -1) {
-		printf("Òª²éÕÒµÄÊı×ÖÔÚÊı×éµÄµÚ%dÎ»",flag + 1);
+		printf("è¦æŸ¥æ‰¾çš„æ•°å­—åœ¨æ•°ç»„çš„ç¬¬%dä½",flag + 1);
 	}
 	else {
-		printf("¸ÃÊı×Ö²»ÔÚÊı×éÖĞ");
+		printf("è¯¥æ•°å­—ä¸åœ¨æ•°ç»„ä¸­");
 	}
 
 	return 0;

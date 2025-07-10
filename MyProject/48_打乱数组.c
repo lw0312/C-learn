@@ -10,7 +10,7 @@
 //	
 //	srand(time(NULL));
 //
-//	// 打乱数组
+//	// 鎵撲贡鏁扮粍
 //	for (int i = 0; i < len; i++)
 //	{
 //		int num = rand() % 5;
@@ -19,7 +19,7 @@
 //		arr[num] = temp;
 //	};
 //	
-//	// 遍历
+//	// 閬嶅巻
 //	TraversalArr(arr, len);
 //
 //	return 0;
