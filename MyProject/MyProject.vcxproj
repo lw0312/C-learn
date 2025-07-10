@@ -60,6 +60,8 @@
     <ClCompile Include="45_数组求和.c" />
     <ClCompile Include="46_数组求和(升级版).c" />
     <ClCompile Include="47_反转数组.c" />
+    <ClCompile Include="48_打乱数组.c" />
+    <ClCompile Include="49_基本查找.c" />
     <ClCompile Include="4_进制.c" />
     <ClCompile Include="5_数据类型.c" />
     <ClCompile Include="6_小数类型.c" />

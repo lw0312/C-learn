@@ -156,5 +156,11 @@
     <ClCompile Include="47_反转数组.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="48_打乱数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49_基本查找.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
