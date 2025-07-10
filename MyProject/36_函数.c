@@ -1,27 +1,27 @@
 //#include <stdio.h>
 //
-//// º¯Êı
+//// å‡½æ•°
 //void PlayGame() {
 //	printf("this is playgame function\n");
 //}
 //
-//// º¬²Îº¯Êı
+//// å«å‚å‡½æ•°
 //void sum(int num1,int num2) {
 //	printf("%d", num1 + num2);
 //}
 //
-//// ´øÓĞ·µ»ØÖµµÄº¯Êı
+//// å¸¦æœ‰è¿”å›å€¼çš„å‡½æ•°
 //int score(int num1, int num2, int num3) {
 //	return num1 + num2 + num3;
 //}
 //
 //int main() {
 //
-//	// µ÷ÓÃº¯Êı
+//	// è°ƒç”¨å‡½æ•°
 //	PlayGame();
 //	sum(1, 2);
 //
-//	// ½ÓÊÕº¯Êı·µ»ØÖµ
+//	// æ¥æ”¶å‡½æ•°è¿”å›å€¼
 //	int returnScore = score(100, 90, 45);
 //	printf("%d", returnScore);
 //

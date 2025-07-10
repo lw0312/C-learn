@@ -18,15 +18,15 @@
 //
 //		if (count == 0)
 //		{
-//			//printf("%dÊÇÒ»¸öÖÊÊı\n", i);
+//			//printf("%dæ˜¯ä¸€ä¸ªè´¨æ•°\n", i);
 //			countA++;
 //		}
 //		else {
-//			//printf("%d²»ÊÇÖÊÊı\n", i);
+//			//printf("%dä¸æ˜¯è´¨æ•°\n", i);
 //		}
 //	}
 //
-//	printf("ÓĞ%d¸öÖÊÊı", countA);
+//	printf("æœ‰%dä¸ªè´¨æ•°", countA);
 //
 //	return 0;
 //}

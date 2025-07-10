@@ -3,7 +3,7 @@
 //int main() {
 //	int a;
 //	int b;
-//	printf("ÇëÊäÈëÁ½¸öÕûÊı:");
+//	printf("è¯·è¾“å…¥ä¸¤ä¸ªæ•´æ•°:");
 //	scanf("%d %d", &a, &b);
 //	int x = a;
 //
@@ -13,7 +13,7 @@
 //		count++;
 //	}
 //
-//	printf("%d³ıÒÔ%dµÄÉÌÎª%d,ÓàÊıÎª%d", x,b,count,a);
+//	printf("%dé™¤ä»¥%dçš„å•†ä¸º%d,ä½™æ•°ä¸º%d", x,b,count,a);
 //
 //	return 0;
 //}

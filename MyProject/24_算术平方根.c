@@ -2,14 +2,14 @@
 //
 //int main() {
 //	int a;
-//	printf("ÇëÊäÈëÒ»¸öÕûÊı£º");
+//	printf("è¯·è¾“å…¥ä¸€ä¸ªæ•´æ•°ï¼š");
 //	scanf("%d", &a);
 //
 //	int count = 1;
 //	while (count * count <= a) {
 //		count++;
 //	}
-//	printf("%dµÄËãÊõÆ½·½¸ù´óÔ¼Îª%d", a, count - 1);
+//	printf("%dçš„ç®—æœ¯å¹³æ–¹æ ¹å¤§çº¦ä¸º%d", a, count - 1);
 //
 //	return 0;
 //}

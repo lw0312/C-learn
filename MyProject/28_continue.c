@@ -1,7 +1,7 @@
 //#include <stdio.h>
 //
 //int main() {
-//	// continue:结束本次循环,继续下次循环
+//	// continue:缁撴潫鏈寰幆,缁х画涓嬫寰幆
 //
 //	for (int i = 1; i <= 5; i++)
 //	{

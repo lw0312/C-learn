@@ -1,21 +1,21 @@
 //#include <stdio.h>
 //
 //int main() {
-//	// 1.¶¨ÒåcharÊı¾İÀàĞÍµÄ±äÁ¿
-//	// char ×Ö·ûÈ¡Öµ·¶Î§ASCIIÂë±íÖĞµÄËùÓĞÄÚÈİ windows1¸ö×Ö½Ú
+//	// 1.å®šä¹‰charæ•°æ®ç±»å‹çš„å˜é‡
+//	// char å­—ç¬¦å–å€¼èŒƒå›´ASCIIç è¡¨ä¸­çš„æ‰€æœ‰å†…å®¹ windows1ä¸ªå­—èŠ‚
 //	char a = 'a';
-//	printf("aÊÇ%c\n", a);
+//	printf("aæ˜¯%c\n", a);
 //
 //	char b = '1';
-//	printf("bÊÇ%c\n", b);
+//	printf("bæ˜¯%c\n", b);
 //
 //	char c = 'A';
-//	printf("cÊÇ%c\n", c);
+//	printf("cæ˜¯%c\n", c);
 //
-//	// 2.×Ö·û´®
+//	// 2.å­—ç¬¦ä¸²
 //	char str[14] = "HelloWorld";
 //	printf("%s\n", str);
 //
-//	// 2.ÀûÓÃsizeof²âÁ¿charÊı¾İÀàĞÍÕ¼ÓÃµÄ×Ö½Ú
-//	printf("¸ÃÊı¾İÀàĞÍÕ¼ÓÃ%zu¸ö×Ö½Ú", sizeof(b));
+//	// 2.åˆ©ç”¨sizeofæµ‹é‡charæ•°æ®ç±»å‹å ç”¨çš„å­—èŠ‚
+//	printf("è¯¥æ•°æ®ç±»å‹å ç”¨%zuä¸ªå­—èŠ‚", sizeof(b));
 //}

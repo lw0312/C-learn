@@ -3,23 +3,23 @@
 //
 //int main() {
 //
-//	// 1.abs() ¾ø¶ÔÖµ
+//	// 1.abs() ç»å¯¹å€¼
 //	int a = abs(-2);
 //	printf("%d\n", a);
 //
-//	// 2.pow() Ãİ
+//	// 2.pow() å¹‚
 //	double b = pow(2, 3);
 //	printf("%lf\n", b);
 //
-//	// 3.sqrt() Æ½·½¸ù
+//	// 3.sqrt() å¹³æ–¹æ ¹
 //	double c = sqrt(3);
 //	printf("%lf\n", c);
 //
-//	// 4.ceil() ÏòÉÏÈ¡Õû
+//	// 4.ceil() å‘ä¸Šå–æ•´
 //	double d = ceil(12.3);
 //	printf("%lf\n", d);
 //
-//	// 5.floor() ÏòÏÂÈ¡Õû
+//	// 5.floor() å‘ä¸‹å–æ•´
 //	double e = floor(12.8);
 //	printf("%lf\n", e);
 //

@@ -19,14 +19,14 @@
 //		int flag = Contains(arr,len,num);
 //		if (flag != 1) {
 //			arr[i] = num;
-//			// ÇóºÍ
+//			// æ±‚å’Œ
 //			sum += num;
 //			i++;
 //		}
 //	}
-//	// ÇóÆ½¾ùÊı
+//	// æ±‚å¹³å‡æ•°
 //	average = sum / len;
-//	// Í³¼Æ±ÈÆ½¾ùÊıĞ¡µÄÊıÓĞ¶àÉÙ¸ö
+//	// ç»Ÿè®¡æ¯”å¹³å‡æ•°å°çš„æ•°æœ‰å¤šå°‘ä¸ª
 //	for (int i = 0; i < 10; i++)
 //	{
 //		if (arr[i] < average) {
@@ -34,16 +34,16 @@
 //		}
 //	}
 //
-//	printf("Êı×é£º[");
+//	printf("æ•°ç»„ï¼š[");
 //	for (int i = 0; i < 10; i++)
 //	{
 //		printf("%d ", arr[i]);
 //	}
 //	printf("]\n");
 //
-//	printf("ºÍ£º%d\n", sum);
-//	printf("Æ½¾ùÊı£º%d\n", average);
-//	printf("¸öÊı£º%d\n", count);
+//	printf("å’Œï¼š%d\n", sum);
+//	printf("å¹³å‡æ•°ï¼š%d\n", average);
+//	printf("ä¸ªæ•°ï¼š%d\n", count);
 //	return 0;
 //}
 //

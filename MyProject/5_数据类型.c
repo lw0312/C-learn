@@ -1,36 +1,36 @@
 //#include <stdio.h>
 //
 //int main() {
-//	// 1.¶¨Òå short£¬int£¬long£¬long long ËÄÖÖÊý¾ÝÀàÐÍµÄ±äÁ¿
-//	// ¸ñÊ½£ºÊý¾ÝÀàÐÍ ±äÁ¿Ãû = Êý¾ÝÖµ;
+//	// 1.å®šä¹‰ shortï¼Œintï¼Œlongï¼Œlong long å››ç§æ•°æ®ç±»åž‹çš„å˜é‡
+//	// æ ¼å¼ï¼šæ•°æ®ç±»åž‹ å˜é‡å = æ•°æ®å€¼;
 //
-//	// short ¶ÌÕûÐÍ windows 2¸ö×Ö½Ú£¨-32768~32767£©
+//	// short çŸ­æ•´åž‹ windows 2ä¸ªå­—èŠ‚ï¼ˆ-32768~32767ï¼‰
 //	short a = 1;
-//	printf("aÊÇ%d\n", a);
+//	printf("aæ˜¯%d\n", a);
 //
-//	// int ÕûÊý windows 4¸ö×Ö½Ú£¨-2147483648~2147483647£©
+//	// int æ•´æ•° windows 4ä¸ªå­—èŠ‚ï¼ˆ-2147483648~2147483647ï¼‰
 //	int b = 10;
-//	printf("bÊÇ%d\n", b);
+//	printf("bæ˜¯%d\n", b);
 //
-//	// long ³¤ÕûÊý windows 4¸ö×Ö½Ú£¨-2147483648~2147483647£©
-//	//				linux 32Î» 4¸ö×Ö½Ú | 64Î» 8¸ö×Ö½Ú
+//	// long é•¿æ•´æ•° windows 4ä¸ªå­—èŠ‚ï¼ˆ-2147483648~2147483647ï¼‰
+//	//				linux 32ä½ 4ä¸ªå­—èŠ‚ | 64ä½ 8ä¸ªå­—èŠ‚
 //	long c = 1000L;
-//	printf("cÊÇ%ld\n", c);
+//	printf("cæ˜¯%ld\n", c);
 //
-//	// long long(C99) ³¬³¤ÕûÐÍ windows 8¸ö×Ö½Ú£¨19Î»Êý£©
+//	// long long(C99) è¶…é•¿æ•´åž‹ windows 8ä¸ªå­—èŠ‚ï¼ˆ19ä½æ•°ï¼‰
 //	long long d = 10000LL;
-//	printf("dÊÇ%lld\n", d);
+//	printf("dæ˜¯%lld\n", d);
 //
-//	// 2.ÀûÓÃ sizeof ²âÁ¿Ã¿Ò»ÖÖÊý¾ÝÀàÐÍÕ¼ÓÃ¶àÉÙ×Ö½Ú
-//	// sizeof(±äÁ¿Ãû)
-//	printf("¸ÃÊý¾ÝÀàÐÍÕ¼ÓÃ%zu¸ö×Ö½Ú\n",sizeof(d));
+//	// 2.åˆ©ç”¨ sizeof æµ‹é‡æ¯ä¸€ç§æ•°æ®ç±»åž‹å ç”¨å¤šå°‘å­—èŠ‚
+//	// sizeof(å˜é‡å)
+//	printf("è¯¥æ•°æ®ç±»åž‹å ç”¨%zuä¸ªå­—èŠ‚\n",sizeof(d));
 //
-//	// 3.ÓÐ·ûºÅÕûÊý£¬ÎÞ·ûºÅÕûÊýµÄ¶¨ÒåÇé¿ö
-//	// signed ÓÐ·ûºÅÕûÊý ÕýÊý£¬¸ºÊý
-//	// unsigned ÎÞ·ûºÅÕûÊý ÕýÊý£¬´òÓ¡Ê±Õ¼Î»·ûÒªÓÃ %u
+//	// 3.æœ‰ç¬¦å·æ•´æ•°ï¼Œæ— ç¬¦å·æ•´æ•°çš„å®šä¹‰æƒ…å†µ
+//	// signed æœ‰ç¬¦å·æ•´æ•° æ­£æ•°ï¼Œè´Ÿæ•°
+//	// unsigned æ— ç¬¦å·æ•´æ•° æ­£æ•°ï¼Œæ‰“å°æ—¶å ä½ç¬¦è¦ç”¨ %u
 //	signed int e = -1;
-//	printf("eÊÇ%d\n", e);
+//	printf("eæ˜¯%d\n", e);
 //
 //	unsigned int f = 2;
-//	printf("fÊÇ%u\n", f);
+//	printf("fæ˜¯%u\n", f);
 //}

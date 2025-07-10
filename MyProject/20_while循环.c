@@ -2,9 +2,9 @@
 //
 //int main() {
 //
-//	// whileÑ­»·
+//	// whileå¾ªç¯
 //	int i = 0;
-//  // Ö»ÓĞµ± while ÅĞ¶ÏÓï¾äÎª true Ê±²Å»áÖ´ĞĞ,Îªfalse Ê± while Ñ­»·½áÊø
+//  // åªæœ‰å½“ while åˆ¤æ–­è¯­å¥ä¸º true æ—¶æ‰ä¼šæ‰§è¡Œ,ä¸ºfalse æ—¶ while å¾ªç¯ç»“æŸ
 //	while (i <= 3) {
 //		printf("%d\n", i);
 //		i++;

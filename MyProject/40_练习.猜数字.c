@@ -9,18 +9,18 @@
 //
 //	while (1) {
 //		int putNum;
-//		printf("ÇëÊäÈëÊı×Ö:");
+//		printf("è¯·è¾“å…¥æ•°å­—:");
 //		scanf("%d", &putNum);
 //
 //		if (putNum == num) {
-//			printf("¹§Ï²Äã,²Â¶ÔÁË,%d",num);
+//			printf("æ­å–œä½ ,çŒœå¯¹äº†,%d",num);
 //			break;
 //		}
 //		else if(putNum > num) {
-//			printf("²Â´íÁË,´óÁË\n");
+//			printf("çŒœé”™äº†,å¤§äº†\n");
 //		}
 //		else if(putNum < num){
-//			printf("²Â´íÁË,Ğ¡ÁË\n");
+//			printf("çŒœé”™äº†,å°äº†\n");
 //		}
 //	}
 //

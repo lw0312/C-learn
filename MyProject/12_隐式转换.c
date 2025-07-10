@@ -1,20 +1,20 @@
 //#include <stdio.h>
 //
 //int main() {
-//	// ��ʽת��
-//	// �ȼ��͵��Զ����ȼ��ߵ�ת��
+//	// 隐式转换
+//	// 等级低的自动往等级高的转换
 //	/*
-//		�ȼ����У�
-//		��ߣ�double
+//		等级排列：
+//		最高）double
 //			  float
 //			  long long
 //			  long
 //			  int
 //			  short
-//		���	��char
+//		最低	）char
 //	*/
 //
-//	// short���͵������ڲ�������ʱ�򣬻��Զ�����Ϊint
+//	// short类型的数据在参与计算的时候，会自动提升为int
 //	short a = 10;
 //	short b = 10;
 //

@@ -3,28 +3,28 @@
 //int main() {
 //	int month = 5;
 //
-//	// case ´©Í¸
+//	// case ç©¿é€
 //	switch (month)
 //	{
 //	case 3:
 //	case 4:
 //	case 5:
-//		printf("´º¼¾");
+//		printf("æ˜¥å­£");
 //		break;
 //	case 6:
 //	case 7:
 //	case 8:
-//		printf("ÏÄ¼¾");
+//		printf("å¤å­£");
 //		break;
 //	case 9:
 //	case 10:
 //	case 11:
-//		printf("Çï¼¾");
+//		printf("ç§‹å­£");
 //		break;
 //	case 12:
 //	case 1:
 //	case 2:
-//		printf("¶¬¼¾");
+//		printf("å†¬å­£");
 //		break;
 //
 //	}
